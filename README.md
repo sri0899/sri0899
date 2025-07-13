@@ -32,14 +32,11 @@
 - 🎮 [2D Angry Birds Clone (Python + Pygame)](https://github.com/sri0899/Angry-Birds)  
   *Physics-based game using Pygame*
 
-- 💬 [AI Chatbot (Medical Domain)](https://github.com/sri0899/Ai-Bot)  
+- 💬 [AI Chatbot](https://github.com/sri0899/Ai-Bot)  
   *AI-powered chatbot using OpenAI API + JavaScript UI*
 
 - 🏭 [Industrial Real Estate Website – Tamil Nadu](https://github.com/sri0899/industrial-land-tn)  
   *Animated real estate landing page using HTML, CSS, JS + AOS + WhatsApp API*
-
-- 🌐 [Virtue Vista Website Clone](https://github.com/sri0899/Virtue-Vista-Clone)  
-  *Responsive frontend replica of Virtue Vista site*
 
 - 🧠 [AI Portfolio Website](https://crazysri619.wixsite.com/sridhar-1)  
   *AI-based personal portfolio on Wix*
