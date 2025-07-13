@@ -13,15 +13,15 @@
 
 - 🎓 Pursuing **B.Sc. Artificial Intelligence & Machine Learning**
 - 👨‍💻 I love building AI-powered web apps, automation tools, and solving real-world problems with code.
-- 🌱 Currently learning: **ReactJS**, **OpenAI API**, **App Development (Flutter)**  
+- 🌱 Currently learning: **ReactJS**, **OpenAI API**, **App Development**  
 - 🚀 Goal: To build my own AI startup or join a product-based company as an AI/ML Engineer or Full Stack Developer.
 
 ---
 
 ### 🔨 Tech Stack
 
-- **Languages:** Python, JavaScript, HTML5, CSS3, R  
-- **Tools & Frameworks:** ReactJS, MongoDB, Git, VS Code, Jupyter Notebook, Wix, Flutter  
+- **Languages:** Python, JavaScript, HTML5, CSS3. 
+- **Tools & Frameworks:** ReactJS, MongoDB, Git, VS Code, Jupyter Notebook, Wix
 - **Domain Knowledge:** Web Development, AI/ML, Chatbot Integration, Responsive UI, REST APIs  
 - **Other:** GitHub Pages, AOS Animation, Firebase (basic), Linux (basics)
 
